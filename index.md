@@ -5,4 +5,5 @@
 
 
 ### Анекдот Бот VK
+[VK анекдот бот](http://vk.com/anecdotbot)
 
